@@ -4,6 +4,4 @@ This is a really awsome website
 
 Edit on example branch
 
-Now editing on update readme
-
-Extra edits 
+Updates made on master on GitHub before rebase
