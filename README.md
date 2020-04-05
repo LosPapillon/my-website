@@ -6,6 +6,7 @@ Edit on example branch
 
 Updates made on master on GitHub before rebase
 
-## Local Problem Purpose
+## Purpose
+some extra line here while merging
 
-__not good!!!__
+This file is just a readme file
